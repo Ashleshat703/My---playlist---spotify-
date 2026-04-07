@@ -1,4 +1,3 @@
-Use this README for your Spotify project:
 # My Playlist - Spotify Clone
 
 A simple and interactive **Spotify-inspired music player** built using **HTML, CSS, and JavaScript**. This project allows users to play songs, switch between tracks, view cover images, and control playback with a clean web-based interface.
